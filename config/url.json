@@ -1,0 +1,5 @@
+{
+    "urlProd": "https://ws.pagseguro.uol.com.br/recurring-payment/boletos?email=kelsonredbana12@gmail.com&token=8fffda3d-a15a-4965-8012-582668b6726f4bb5e9c944edbd16f772e523abe28dd7d813-805f-4885-a6e6-f4362b84287d",
+    "urlSandbox": "https://ws.sandbox.uol.com.br/recurring-payment/boletos?email=kelsonredbana12@gmail.com&token=1B933CC3173949EDB424F6F0D7ADCEAF",
+    "urlCancelaBoleto": "https://ws.pagseguro.uol.com.br/v2/transactions/cancels?email={{EMAIL_DA_CONTA}}&token={{TOKEN_DA_CONTA}}&transactionCode={{transaction-code}}"
+}
